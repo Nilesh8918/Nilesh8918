@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nilesh8918
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently pursuing MCA
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ...
 
