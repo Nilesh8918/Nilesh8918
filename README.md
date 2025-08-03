@@ -3,6 +3,7 @@
 - 🌱 I’m currently pursuing MCA
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ...
+- Email nileshdatta327@gmail.com
 
 <!---
 Nilesh8918/Nilesh8918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
